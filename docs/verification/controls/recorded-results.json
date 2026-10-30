@@ -1,0 +1,70 @@
+[
+  {
+    "scale": 1,
+    "exit_code": 0,
+    "checks": [
+      "PASS Text field construction and Chinese placeholder font",
+      "PASS Application button getter retains English menu key",
+      "PASS Application label getter retains English tier key",
+      "PASS Swing layout measures translated text",
+      "PASS Tab identifiers remain stable",
+      "PASS Editable research text remains unchanged",
+      "PASS Table data and data-cell text remain unchanged",
+      "PASS HTML source and link targets remain unchanged",
+      "PASS Application window title remains unchanged",
+      "PASS Display painting preserves application identifiers",
+      "PASS Requested display scale 1.0"
+    ]
+  },
+  {
+    "scale": 1.25,
+    "exit_code": 0,
+    "checks": [
+      "PASS Text field construction and Chinese placeholder font",
+      "PASS Application button getter retains English menu key",
+      "PASS Application label getter retains English tier key",
+      "PASS Swing layout measures translated text",
+      "PASS Tab identifiers remain stable",
+      "PASS Editable research text remains unchanged",
+      "PASS Table data and data-cell text remain unchanged",
+      "PASS HTML source and link targets remain unchanged",
+      "PASS Application window title remains unchanged",
+      "PASS Display painting preserves application identifiers",
+      "PASS Requested display scale 1.25"
+    ]
+  },
+  {
+    "scale": 1.5,
+    "exit_code": 0,
+    "checks": [
+      "PASS Text field construction and Chinese placeholder font",
+      "PASS Application button getter retains English menu key",
+      "PASS Application label getter retains English tier key",
+      "PASS Swing layout measures translated text",
+      "PASS Tab identifiers remain stable",
+      "PASS Editable research text remains unchanged",
+      "PASS Table data and data-cell text remain unchanged",
+      "PASS HTML source and link targets remain unchanged",
+      "PASS Application window title remains unchanged",
+      "PASS Display painting preserves application identifiers",
+      "PASS Requested display scale 1.5"
+    ]
+  },
+  {
+    "scale": 2,
+    "exit_code": 0,
+    "checks": [
+      "PASS Text field construction and Chinese placeholder font",
+      "PASS Application button getter retains English menu key",
+      "PASS Application label getter retains English tier key",
+      "PASS Swing layout measures translated text",
+      "PASS Tab identifiers remain stable",
+      "PASS Editable research text remains unchanged",
+      "PASS Table data and data-cell text remain unchanged",
+      "PASS HTML source and link targets remain unchanged",
+      "PASS Application window title remains unchanged",
+      "PASS Display painting preserves application identifiers",
+      "PASS Requested display scale 2.0"
+    ]
+  }
+]

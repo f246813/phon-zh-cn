@@ -1,0 +1,1808 @@
+# Phon 4.1.1 简体中文显示词典。英文标识、脚本和研究数据不改写。
+# 声学术语依据本地 AIPraat tools/praat_glossary.md。
+File	文件
+Edit	编辑
+View	视图
+Tools	工具
+Window	窗口
+Help	帮助
+Query	查询
+Analysis	分析
+Workspace	工作区
+Welcome	欢迎
+Welcome to Phon	欢迎使用 Phon
+Welcome to Phon 4	欢迎使用 Phon 4
+Welcome to Phon!	欢迎使用 Phon！
+Get Started	开始使用
+Getting Started	入门
+Quick Start	快速开始
+Actions	操作
+Other	其他
+Recent Projects	最近的项目
+Recent projects	最近的项目
+Recent Files	最近的文件
+Recent files	最近的文件
+Create Project	创建项目
+Create a new project	创建新项目
+New Project	新建项目
+New project	新建项目
+Open Project	打开项目
+Open project	打开项目
+Browse for Project	查找项目
+Browse for project folder on disk	选择磁盘上的项目文件夹
+Browse for project folder on disk...	选择磁盘上的项目文件夹…
+Open an existing project	打开已有项目
+Browse	浏览
+Preferences	偏好设置
+Settings	设置
+Application Settings	程序设置
+Open Preferences	打开偏好设置
+Modify application preferences	修改程序偏好设置
+Modify Phon preferences	修改 Phon 偏好设置
+Set application preferences	设置程序偏好
+Phon : Preferences	Phon：偏好设置
+Phon Preferences	Phon 偏好设置
+General	常规
+Editor	编辑器
+Media	媒体
+Paths	路径
+Fonts	字体
+Font	字体
+Theme	主题
+Appearance	外观
+Light	浅色
+Dark	深色
+System	跟随系统
+System Default	系统默认
+Follow system	跟随系统
+Use system theme	跟随系统主题
+Light theme	浅色主题
+Dark theme	深色主题
+Auto	自动
+Automatic	自动
+Default	默认
+Defaults	默认值
+Reset	重置
+Restore Defaults	恢复默认值
+Restore defaults	恢复默认值
+Apply	应用
+OK	确定
+Ok	确定
+Cancel	取消
+Close	关闭
+Close window	关闭窗口
+Close dialog	关闭对话框
+Close without saving	关闭且不保存
+Yes	是
+No	否
+Save	保存
+Save As	另存为
+Save as	另存为
+Save All	全部保存
+Save all	全部保存
+Save changes	保存更改
+Save Changes	保存更改
+Don't Save	不保存
+Do not save	不保存
+Discard	放弃
+Discard changes	放弃更改
+Revert	还原
+Reload	重新加载
+Refresh	刷新
+Refresh project list	刷新项目列表
+Clear History	清空历史
+Clear history	清空历史
+Clear	清空
+Remove	移除
+Delete	删除
+New	新建
+Open	打开
+Open File	打开文件
+Open file	打开文件
+Open file...	打开文件…
+Exit	退出
+Quit	退出
+Undo	撤销
+Redo	重做
+Cut	剪切
+Copy	复制
+Paste	粘贴
+Select All	全选
+Select all	全选
+Deselect All	取消全选
+Find	查找
+Replace	替换
+Find next	查找下一个
+Find previous	查找上一个
+Search	搜索
+Search Options	搜索选项
+Search options	搜索选项
+Case sensitive	区分大小写
+Case sensititve	区分大小写
+Regular expression	正则表达式
+Regular Expression	正则表达式
+Match whole word	匹配整个词
+Whole words	全词匹配
+Wrap search	循环查找
+Add	添加
+Add all	全部添加
+Remove all	全部移除
+Move up	上移
+Move down	下移
+Up	上
+Down	下
+Left	左
+Right	右
+Back	上一步
+Next	下一步
+Finish	完成
+Done	完成
+Continue	继续
+Stop	停止
+Start	开始
+Run	运行
+Loading	正在加载
+Loading...	正在加载…
+Please wait...	请稍候…
+Processing...	正在处理…
+Ready	就绪
+Error	错误
+Warning	警告
+Information	信息
+Details	详细信息
+Show details	显示详细信息
+Hide details	隐藏详细信息
+Options	选项
+Advanced	高级
+Advanced Settings	高级设置
+Advanced settings	高级设置
+Name	名称
+Description	说明
+Type	类型
+Value	值
+Status	状态
+Enabled	启用
+Disabled	禁用
+Enable	启用
+Disable	禁用
+None	无
+All	全部
+all	全部
+Any	任意
+Never	从不
+Always	始终
+On	开
+Off	关
+Other...	其他…
+More	更多
+More...	更多…
+Project	项目
+Projects	项目
+Project Manager	项目管理器
+Project name	项目名称
+Project Name	项目名称
+Project folder	项目文件夹
+Project Folder	项目文件夹
+Project Location	项目位置
+Location	位置
+Folder	文件夹
+Folder name	文件夹名称
+Directory	目录
+Path	路径
+Open folder	打开文件夹
+Show folder	显示文件夹
+Show project	显示项目
+Show project folder	显示项目文件夹
+Click to show project folder	点击显示项目文件夹
+Archive project	归档项目
+Rename project	重命名项目
+Rename	重命名
+Delete project	删除项目
+Copy project	复制项目
+Project Properties	项目属性
+Project properties	项目属性
+Properties	属性
+Edit properties	编辑属性
+Corpus	语料库
+Corpora	语料库
+New Corpus	新建语料库
+New corpus	新建语料库
+Corpus name	语料库名称
+Corpus Name	语料库名称
+Add corpus to project	向项目添加语料库
+Delete corpus	删除语料库
+Rename corpus	重命名语料库
+Session	会话
+Sessions	会话
+New Session	新建会话
+New session	新建会话
+Open Session	打开会话
+Open session	打开会话
+Session name	会话名称
+Session Name	会话名称
+Session Editor	会话编辑器
+Session editor	会话编辑器
+Session Information	会话信息
+Session information	会话信息
+Session Properties	会话属性
+Session properties	会话属性
+Session date	会话日期
+Date	日期
+Language	语言
+Languages	语言
+Language Codes	语言代码
+Language codes	语言代码
+IPA	国际音标（IPA）
+IPA Chart	国际音标表
+IPA chart	国际音标表
+IPA Map	国际音标表
+IPA map	国际音标表
+IPA Lookup	音标查找
+IPA lookup	音标查找
+IPA Dictionary	音标词典
+IPA Dictionaries	音标词典
+IPA dictionaries	音标词典
+Dictionary	词典
+Dictionaries	词典
+Lookup	查找
+Transcription	转写
+Transcriptions	转写
+Transcript	转写文本
+Orthography	正字法
+IPA Target	目标音标
+IPA Actual	实际音标
+Target IPA	目标音标
+Actual IPA	实际音标
+Target	目标
+Actual	实际
+Model	模型
+Produced	实际发音
+Tier	层
+Tiers	层
+Tier name	层名称
+Tier Name	层名称
+Tier Management	层管理
+Tier management	层管理
+Tier Settings	层设置
+Tier settings	层设置
+Tier View	层视图
+Tier view	层视图
+Tier Data	层数据
+Tier data	层数据
+Data Tiers	数据层
+Data tiers	数据层
+User Tiers	用户层
+User tiers	用户层
+System Tiers	系统层
+System tiers	系统层
+Any tier	任意层
+all tiers	所有层
+Add tier	添加层
+Remove tier	移除层
+Add field	添加字段
+Field	字段
+Fields	字段
+Clear field	清空字段
+Record	记录
+Records	记录
+Record List	记录列表
+Record list	记录列表
+Record Data	记录数据
+Record data	记录数据
+Record Number	记录编号
+Record number	记录编号
+Record ID	记录 ID
+New Record	新建记录
+New record	新建记录
+Add record	添加记录
+Delete record	删除记录
+Delete Record	删除记录
+Duplicate record	复制记录
+Split record	拆分记录
+Merge records	合并记录
+Previous record	上一条记录
+Next record	下一条记录
+First record	第一条记录
+Last record	最后一条记录
+Go to record	跳转到记录
+Current record	当前记录
+Selected records	选中的记录
+All records	所有记录
+No records	没有记录
+No selection	未选择
+No title	无标题
+Group	组
+Groups	组
+Group number	组号
+Group Alignment	组对齐
+Group alignment	组对齐
+By Group	按组
+By Word	按词
+Word	词
+Words	词
+Word Count	词数
+Word count	词数
+Word Inventory	词汇清单
+Word inventory	词汇清单
+Word Match	词匹配
+Word match	词匹配
+Word Alignment	词对齐
+Word alignment	词对齐
+Phone	音素
+Phones	音素
+Phone Alignment	音素对齐
+Phone alignment	音素对齐
+Phone Inventory	音素清单
+Phone inventory	音素清单
+Phone Clusters	音素组合
+Phone clusters	音素组合
+Phoneme	音位
+Phonemes	音位
+Phonetics	语音学
+Phonology	音系学
+Phonological Processes	音系过程
+Phonological processes	音系过程
+Phonological Features	音系特征
+Phonological features	音系特征
+Feature	特征
+Features	特征
+Syllable	音节
+Syllables	音节
+Syllabification	音节划分
+Syllabification & Alignment	音节划分与对齐
+Syllabification and Alignment	音节划分与对齐
+Syllabifier	音节划分器
+Syllabifiers	音节划分器
+Syllable Count	音节数
+Syllable count	音节数
+Syllable Structure	音节结构
+Syllable structure	音节结构
+Syllable constituents	音节成分
+Syllable Constituent	音节成分
+Syllable constituent	音节成分
+Onset	音节首
+Nucleus	音节核
+Coda	音节尾
+Rime	韵基
+Rhyme	韵基
+Appendix	附加音段
+Onset cluster	音节首辅音丛
+Coda cluster	音节尾辅音丛
+Stress	重音
+Primary stress	主重音
+Secondary stress	次重音
+Unstressed	非重读
+Tone	声调
+Tones	声调
+Intonation	语调
+Diacritic	附加符号
+Diacritics	附加符号
+Consonant	辅音
+Consonants	辅音
+Vowel	元音
+Vowels	元音
+Diphthong	双元音
+Diphthongs	双元音
+Monophthong	单元音
+Affricate	塞擦音
+Affricates	塞擦音
+Fricative	擦音
+Fricatives	擦音
+Plosive	塞音
+Plosives	塞音
+Stop consonant	塞音
+Nasal	鼻音
+Nasals	鼻音
+Approximant	近音
+Approximants	近音
+Lateral approximant	边近音
+Lateral fricative	边擦音
+Trill	颤音
+Tap or Flap	闪音
+Tap	闪音
+Flap	闪音
+Glide	滑音
+Glides	滑音
+Liquid	流音
+Liquids	流音
+Voiced	浊音
+Voiceless	清音
+Voicing	浊化
+Devoicing	清化
+Aspirated	送气
+Aspiration	送气
+Unaspirated	不送气
+Bilabial	双唇音
+Labiodental	唇齿音
+Dental	齿音
+Alveolar	齿龈音
+Postalveolar	龈后音
+Retroflex	卷舌音
+Palatal	硬腭音
+Velar	软腭音
+Uvular	小舌音
+Pharyngeal	咽音
+Glottal	声门音
+Epiglottal	会厌音
+Labial-velar	唇软腭音
+Labial-palatal	唇硬腭音
+Place	部位
+Place of articulation	发音部位
+Manner	方式
+Manner of articulation	发音方式
+Height	高度
+Backness	舌位前后
+Roundness	圆唇度
+Rounding	圆唇
+Rounded	圆唇
+Unrounded	不圆唇
+Front	前
+Central	央
+Back vowel	后元音
+High	高
+Mid	中
+Low	低
+Close-mid	半高
+Open-mid	半低
+Near-close	次高
+Near-open	次低
+Pulmonic	肺部气流音
+Non-pulmonic	非肺部气流音
+Clicks	吸气音
+Implosives	内爆音
+Ejectives	挤喉音
+Suprasegmentals	超音段特征
+Other Symbols	其他符号
+Other symbols	其他符号
+Media Player	媒体播放器
+Media player	媒体播放器
+Media File	媒体文件
+Media file	媒体文件
+Media Files	媒体文件
+Media files	媒体文件
+Media folder	媒体文件夹
+Media Folders	媒体文件夹
+Media folders	媒体文件夹
+Project media folder	项目媒体文件夹
+Corpus media folder	语料库媒体文件夹
+Choose where Phon looks for media files...	选择 Phon 查找媒体文件的位置…
+Media Preferences	媒体偏好设置
+Audio	音频
+Video	视频
+Sound	声音
+Sounds	声音
+Channel	声道
+Channels	声道
+Mono	单声道
+Stereo	立体声
+Sample rate	采样率
+Sampling frequency	采样频率
+Play	播放
+Pause	暂停
+Play selection	播放选区
+Play Selection	播放选区
+Play record	播放记录
+Play Record	播放记录
+Play segment	播放片段
+Play Segment	播放片段
+Loop	循环
+Loop playback	循环播放
+Playback	播放
+Playback rate	播放速率
+Volume	音量
+Mute	静音
+Timeline	时间轴
+Time	时间
+Start time	起始时间
+End time	结束时间
+Start Time	起始时间
+End Time	结束时间
+Begin	起点
+End	终点
+Duration	时长
+Length	长度
+Selection	选区
+Time selection	时间选区
+Segment	片段
+Segments	片段
+Segmentation	切分
+Interval	区间
+Intervals	区间
+Point	点
+Points	点
+Boundary	边界
+Boundaries	边界
+Zoom	缩放
+Zoom In	放大
+Zoom in	放大
+Zoom Out	缩小
+Zoom out	缩小
+Zoom to selection	缩放至选区
+Zoom to Selection	缩放至选区
+Zoom to fit	适合窗口
+Show all	显示全部
+Show All	显示全部
+Show selection	显示选区
+Speech Analysis	语音分析
+Speech analysis	语音分析
+Acoustic Analysis	声学分析
+Acoustic analysis	声学分析
+Waveform	波形
+Spectrogram	声谱图
+Spectrogram Settings	声谱图设置
+Spectrogram settings	声谱图设置
+Spectrum	频谱
+Pitch	音高
+Pitch settings	音高设置
+Pitch Settings	音高设置
+Pitch range	音高范围
+Pitch contour	音高曲线
+Fundamental frequency	基频
+Intensity	音强
+Intensity settings	音强设置
+Intensity Settings	音强设置
+Intensity contour	音强曲线
+Formant	共振峰
+Formants	共振峰
+Formant settings	共振峰设置
+Formant Settings	共振峰设置
+Formant contour	共振峰曲线
+Pulses	声门脉冲
+Frequency	频率
+Minimum frequency	最低频率
+Maximum frequency	最高频率
+Frequency range	频率范围
+Window length	窗长
+Time step	时间步长
+Dynamic range	动态范围
+Maximum formant	共振峰上限
+Number of formants	共振峰数量
+Pre-emphasis	预加重
+Autocorrelation	自相关
+Cross-correlation	互相关
+Amplitude	振幅
+Bandwidth	带宽
+Ceiling	上限
+Floor	下限
+Minimum pitch	最低音高
+Maximum pitch	最高音高
+Harmonicity	谐噪比
+Jitter	基频微扰
+Shimmer	振幅微扰
+TextGrid	TextGrid（文本标注）
+TextGrids	TextGrid（文本标注）
+Import TextGrid	导入 TextGrid
+Export TextGrid	导出 TextGrid
+Import TextGrids	导入 TextGrid
+Export TextGrids	导出 TextGrid
+Send to Praat	发送到 Praat
+Open in Praat	在 Praat 中打开
+Praat Settings	Praat 设置
+Praat settings	Praat 设置
+Praat path	Praat 路径
+Participant	参与者
+Participants	参与者
+Participant Information	参与者信息
+Participant information	参与者信息
+Participant ID	参与者 ID
+Participant name	参与者姓名
+Role	角色
+Age	年龄
+Sex	性别
+Gender	性别
+Birthday	出生日期
+Birth date	出生日期
+Date of birth	出生日期
+Male	男
+Female	女
+Unknown	未知
+Education	教育背景
+Group membership	组别
+First language	第一语言
+Second language	第二语言
+Target Child	目标儿童
+Target child	目标儿童
+Child	儿童
+Mother	母亲
+Father	父亲
+Investigator	研究者
+Researcher	研究者
+Interviewer	访谈者
+Adult	成人
+Sibling	兄弟姐妹
+Calculate from age	根据年龄计算
+Calculate from birthday	根据出生日期计算
+Calculate age from provided birthday	根据出生日期计算年龄
+Calculate birthday from provided age	根据年龄计算出生日期
+Assign ID from role	根据角色分配 ID
+Assign id from role	根据角色分配 ID
+Assign id from selected role	根据选中的角色分配 ID
+Anonymize	匿名化
+Anonymize participant information...	匿名化参与者信息…
+Import	导入
+Export	导出
+Import File	导入文件
+Export File	导出文件
+Import file	导入文件
+Export file	导出文件
+Import Session	导入会话
+Export Session	导出会话
+Import sessions	导入会话
+Export sessions	导出会话
+Import Project	导入项目
+Export Project	导出项目
+Publish Project	发布项目
+Source	来源
+Destination	目标位置
+Input	输入
+Output	输出
+Input file	输入文件
+Output file	输出文件
+Output folder	输出文件夹
+File format	文件格式
+Format	格式
+Encoding	编码
+Include	包含
+Exclude	排除
+Include header	包含表头
+Include headers	包含表头
+Overwrite	覆盖
+Overwrite existing files	覆盖已有文件
+Append	追加
+Preview	预览
+Print	打印
+Page Setup	页面设置
+Print Preview	打印预览
+Check Transcriptions	检查转写
+Check IPA Tiers	检查音标层
+Check IPA tiers for invalid transcriptions.	检查音标层中的无效转写。
+Check sessions	检查会话
+Check sessions for warnings	检查会话中的警告
+Validation	校验
+Validate	校验
+Validate Transcriptions	校验转写
+Auto validate session	自动校验会话
+Auto-validate IPA Actual	自动校验实际音标
+Auto-validate IPA Target	自动校验目标音标
+Blind mode	盲法模式
+Blind Mode	盲法模式
+Transcriber	转写者
+Transcribers	转写者
+Invalid transcription	无效转写
+Valid	有效
+Invalid	无效
+Reset syllabification	重置音节划分
+Reset alignment	重置对齐
+also reset phone alignment	同时重置音素对齐
+Align	对齐
+Alignment	对齐
+Auto-align	自动对齐
+Automatic alignment	自动对齐
+Syllabify	划分音节
+Resyllabify	重新划分音节
+Query History	查询历史
+Query history	查询历史
+Query Name	查询名称
+Query name	查询名称
+Query Results	查询结果
+Query results	查询结果
+Query Settings	查询设置
+Query settings	查询设置
+Query Parameters	查询参数
+Query parameters	查询参数
+Query script	查询脚本
+Query Script	查询脚本
+New Query	新建查询
+New query	新建查询
+Run Query	运行查询
+Run query	运行查询
+Run Report	生成报告
+Results	结果
+Result	结果
+No results	没有结果
+No results found	未找到结果
+Results Table	结果表
+Results table	结果表
+Report	报告
+Reports	报告
+Report name	报告名称
+Report title	报告标题
+Report settings	报告设置
+Report Template	报告模板
+Report template	报告模板
+Report Design	报告设计
+Report design	报告设计
+New Report	新建报告
+Begin New Report	开始新报告
+Generate Report	生成报告
+Generate report	生成报告
+Automatically generate HTML Report	自动生成 HTML 报告
+Table	表格
+Tables	表格
+Column	列
+Columns	列
+Column Name	列名称
+Column Index	列索引
+Row	行
+Rows	行
+Header	表头
+Sort	排序
+Sort by	排序依据
+Ascending	升序
+Descending	降序
+Filter	筛选
+Filters	筛选
+Grouping	分组
+Partition	分区
+Aggregate	汇总
+Count	计数
+Total	总计
+Sum	总和
+Mean	均值
+Average	平均值
+Minimum	最小值
+Maximum	最大值
+Median	中位数
+Standard deviation	标准差
+Frequency table	频数表
+Percent	百分比
+Percentage	百分比
+Accuracy	正确率
+Correct	正确
+Incorrect	错误
+Match	匹配
+Matches	匹配项
+Mismatch	不匹配
+Inventory	清单
+Aggregated Inventory	汇总清单
+Consistency Analysis	一致性分析
+Consonant Inventory	辅音清单
+Vowel Inventory	元音清单
+CV Pattern Match	辅元音模式匹配
+Stress Match	重音匹配
+Syllable Count Match	音节数匹配
+Tier Match	层匹配
+Percent Correct	正确百分比
+Percent Phones Correct	音素正确百分比
+Percent Consonants Correct	辅音正确百分比
+Percent Vowels Correct	元音正确百分比
+Percent Diacritics Correct	附加符号正确百分比
+Percent Number Tones Correct	数字声调正确百分比
+Index of Phonetic Complexity	语音复杂度指数
+Phonological Mean Length of Utterance	音系平均话语长度
+Measure of Cluster Proximity	辅音丛接近度测量
+Coronal Backing	舌冠音后移
+Velar Fronting	软腭音前移
+Deaffrication	塞擦音简化
+Deletion	脱落
+Fricative Stopping	擦音塞化
+Glottalization	声门化
+Lateralization	边音化
+Liquid Gliding & Vocalization	流音滑音化与元音化
+Vocalization	元音化
+Custom Process	自定义过程
+Specialized	专项分析
+Script	脚本
+Scripts	脚本
+Script Editor	脚本编辑器
+Script editor	脚本编辑器
+Script Library	脚本库
+Script library	脚本库
+User Library	用户库
+Project Library	项目库
+Library	库
+Libraries	库
+New script	新建脚本
+Run script	运行脚本
+Stop script	停止脚本
+Parameters	参数
+Parameter	参数
+Macro	宏
+Macros	宏
+New Macro	新建宏
+New macro	新建宏
+Node	节点
+Nodes	节点
+Node Library	节点库
+Node library	节点库
+Connections	连接
+Connect	连接
+Disconnect	断开
+Input table	输入表
+Output table	输出表
+AI Assistant	AI 助手
+AI assistant	AI 助手
+Assistant	助手
+Chat	对话
+New Chat	新建对话
+New chat	新建对话
+Send	发送
+Clear chat	清空对话
+Provider	服务商
+Model name	模型名称
+Models	模型
+API Key	API 密钥
+API key	API 密钥
+Base URL	基础 URL
+Endpoint	服务地址
+Temperature	温度
+Max tokens	最大词元数
+Maximum tokens	最大词元数
+System prompt	系统提示词
+Test connection	测试连接
+Local model	本地模型
+Cloud provider	云端服务商
+Conversation	对话
+Conversations	对话
+History	历史
+New conversation	新建对话
+Thinking	思考中
+Send message	发送消息
+Message	消息
+Messages	消息
+Stop generating	停止生成
+Copy code	复制代码
+Insert	插入
+Execute	执行
+Review changes	查看更改
+Apply changes	应用更改
+Reject	拒绝
+Accept	接受
+Check for updates	检查更新
+Check for Updates	检查更新
+Check for updates when application starts	启动时检查更新
+Checking for updates	正在检查更新
+Checking for updates...	正在检查更新…
+Updates	更新
+Update	更新
+Update available	有可用更新
+Up to date	已是最新版本
+About	关于
+About Phon	关于 Phon
+User Manual	用户手册
+User manual	用户手册
+Phon Manual	Phon 手册
+Phon manual	Phon 手册
+Documentation	文档
+Tutorials	教程
+Website	网站
+Visit website	访问网站
+Report an issue	报告问题
+Report a bug	报告缺陷
+Release Notes	版本说明
+Release notes	版本说明
+What's New	新版变化
+What's new	新版变化
+Show application data folder	显示程序数据文件夹
+Application data folder	程序数据文件夹
+Application logs...	程序日志…
+Logs	日志
+Version	版本
+License	许可证
+Copyright	版权
+Acknowledgements	致谢
+Always on top	窗口置顶
+Bring window to front	将窗口置于前台
+Choose window	选择窗口
+Minimize	最小化
+Maximize	最大化
+Restore	还原
+Full screen	全屏
+Default layout	默认布局
+Reset layout	重置布局
+Dock	停靠
+Undock	取消停靠
+Float	浮动
+Hide	隐藏
+Show	显示
+Collapse	折叠
+Expand	展开
+Hide all	全部隐藏
+Show view	显示视图
+Workspace folder	工作区文件夹
+Workspace Folder	工作区文件夹
+Change workspace folder...	更改工作区文件夹…
+Browse for workspace folder...	选择工作区文件夹…
+The workspace folder is the default location for saving Phon projects	工作区文件夹是保存 Phon 项目的默认位置
+Click to collapse/show workspace projects	点击折叠或展开工作区项目
+Clear workspace history	清空工作区历史
+Clear project history	清空项目历史
+Clear file history	清空文件历史
+Clear query history	清空查询历史
+Clear Query History	清空查询历史
+Clear query settings	清空查询设置
+Clear query settings (reset to default)	清空查询设置并恢复默认值
+Reset Information Messages	重置信息提示
+Hidden Messages	隐藏的消息
+Hidden messages	隐藏的消息
+Save prefs and close dialog	保存偏好设置并关闭对话框
+Autosave Sessions	自动保存会话
+Backup Sessions	备份会话
+Backup session file to <project>	备份会话文件到 <project>
+Check file when loading session audio	加载会话音频时检查文件
+Check audio file before loading to avoid crashes/freezing.  Turn off if problematic.	加载音频前检查文件；如检查造成问题，可关闭此项。
+Add folder...	添加文件夹…
+Remove folder...	移除文件夹…
+Add folder to list...	向列表添加文件夹…
+Browse for file/folder...	选择文件或文件夹…
+Add paths...	添加路径…
+Bold	粗体
+Italic	斜体
+Plain	常规
+Size	字号
+Font size	字号
+Color	颜色
+Foreground	前景色
+Background	背景色
+Text color	文字颜色
+Selection color	选区颜色
+Use default font	使用默认字体
+Suggested Fonts	推荐字体
+Unicode	Unicode
+Character	字符
+Characters	字符
+Symbol	符号
+Symbols	符号
+Insert symbol	插入符号
+Insert character	插入字符
+Favorites	收藏
+Add to favorites	添加到收藏
+Remove from favorites	从收藏中移除
+Click for options	点击显示选项
+Click to hide	点击隐藏
+Click to toggle details	点击切换详细信息
+Click to show diacritic selector	点击显示附加符号选择器
+Click for corpus contextual menu	点击打开语料库菜单
+Click for session list contextual menu	点击打开会话列表菜单
+New corpus...	新建语料库…
+New session...	新建会话…
+No projects found	未找到项目
+No recent projects	没有最近的项目
+No media file	未选择媒体文件
+No media loaded	未加载媒体
+Select media file	选择媒体文件
+Select folder	选择文件夹
+Select file	选择文件
+Select a project	选择项目
+Select a session	选择会话
+Select a corpus	选择语料库
+Add new session to project	向项目添加新会话
+Assign new project name	指定新的项目名称
+Cancel create	取消创建
+Cancel export and close window	取消导出并关闭窗口
+Cancel rename project	取消项目重命名
+Automatic Configuration	自动配置
+To edit advanced settings, select an item from the tree on the left.	从左侧树形列表选择项目以编辑高级设置。
+These settings override those configured in other forms.  They are not saved with the report/analysis.	这些设置优先于其他表单中的配置，不随报告或分析保存。
+(maximum segment length in milliseconds)	（最大片段长度，毫秒）
+(click to select)	（点击选择）
+(leave empty to unset query name)	（留空以清除查询名称）
+(same as project - click to change)	（与项目相同，点击更改）
+-- Named Queries --	-- 已命名查询 --
+-- Overrides --	-- 覆盖设置 --
+-- Project Library --	-- 项目库 --
+-- User Library --	-- 用户库 --
+-- Suggested Fonts --	-- 推荐字体 --
+Edit Preferences	编辑偏好设置
+Modify application settings	修改程序设置
+Edit application preferences	编辑程序偏好设置
+Show in File Explorer	在文件资源管理器中显示
+More actions	更多操作
+Modified	修改时间
+Search by name or path	按名称或路径搜索
+Remove missing	移除失效项
+Remove entries for folders that no longer exist	移除文件夹已不存在的历史记录
+Clear recent projects history	清空最近项目历史
+Clear recent project history	清空最近项目历史
+Open file on disk	打开磁盘上的文件
+Exit the application.	退出程序。
+Edit: cut	剪切
+Edit: copy	复制
+Edit: paste	粘贴
+ISO-639-3 Language Codes	ISO-639-3 语言代码
+Standard 3 letter language codes	标准三字母语言代码
+Composer (advanced)	流程编辑器（高级）
+Composer (simple)	流程编辑器（简易）
+Composer	流程编辑器
+Open advanced Composer	打开高级流程编辑器
+PhonShell scripts	PhonShell 脚本
+Phon interactive scripting shell.	Phon 交互式脚本控制台。
+Show Welcome window	显示欢迎窗口
+Recenter Window	将窗口居中
+Move window to center of screen	将窗口移至屏幕中央
+Keep window on top	窗口置顶
+Check for application updates	检查程序更新
+Show manual (online)	在线查看手册
+What changed since Phon 3	查看 Phon 3 之后的变化
+Import from Phon 3	从 Phon 3 导入
+No Phon 3 installation was found on this computer	本机未找到 Phon 3 安装
+View application logs	查看程序日志
+View about dialog and licence agreement	查看程序信息和许可协议
+Show license (online)	在线查看许可协议
+Show application license	显示程序许可协议
+CHAT	CHAT
+Shortcuts	快捷键
+Analytics	使用情况统计
+Startup	启动
+Reopen projects on startup	启动时重新打开项目
+Automatically reopen projects that were open when Phon last quit	自动打开上次退出时仍然打开的项目
+Color theme	颜色主题
+Light, dark, or follow the operating system. Applies after restart.	浅色、深色或跟随系统；重启后生效。
+Applied after restart	重启后生效
+Check for updates when the application starts	启动时检查更新
+Default location for saving Phon projects	保存 Phon 项目的默认位置
+Default dictionary used for IPA lookup	音标查找的默认词典
+Default syllabifier used for syllabification	音节划分的默认划分器
+Restore all previously hidden information dialogs	恢复所有已隐藏的信息对话框
+Autosave interval	自动保存间隔
+Automatically save sessions at a regular interval	按设定间隔自动保存会话
+Backup when saving	保存时备份
+Save a backup to <project>\backups.zip before saving	保存前备份到 <project>\backups.zip
+Max backups per session	每个会话的备份上限
+Maximum number of backups to keep per session (0 = unlimited)	每个会话最多保留的备份数（0 为不限）
+Check audio files	检查音频文件
+Validate audio files before loading to avoid crashes. Disable if problematic.	加载前检查音频文件；如检查造成问题，可关闭此项。
+Layout	布局
+Layout on open	打开时的布局
+Choose which editor layout to load when opening a session	选择打开会话时使用的编辑器布局
+Layout of last used editor	上次使用的编辑器布局
+Previous layout for session	该会话上次使用的布局
+Media search paths	媒体搜索路径
+The default location for media is the project's __res/media folder. Phon will search the default media folder followed by the paths listed below if the full path to media is not specified in Session Information.	媒体默认位于项目的 __res/media 文件夹。若会话信息未指定完整路径，Phon 会依次查找默认媒体文件夹和下列路径。
+Move selected folder up in the list	将选中的文件夹上移
+Move selected folder down in the list	将选中的文件夹下移
+Remove selected folder from list	从列表移除选中的文件夹
+Load previous query parameters	载入上次的查询参数
+Load the most recent history entry when opening a new query wizard	打开新查询向导时载入最近的历史记录
+Clean history on close	关闭时清空历史
+Remove query history entries when closing the query window	关闭查询窗口时移除查询历史
+Report on open	打开时的报告
+Choose which report to load when opening a new query wizard	选择打开新查询向导时载入的报告
+Load default report	载入默认报告
+Load previous report	载入上次的报告
+Validate with chatter after save	保存后使用 chatter 校验
+Run the bundled chatter binary against each saved .cha file and report errors.	使用随附的 chatter 检查每个已保存的 .cha 文件并报告错误。
+chatter binary	chatter 可执行文件
+Override the default location (bin/chatter/x86_64-pc-windows-msvc/chatter.exe). Empty means use the bundled binary.	覆盖默认路径（bin/chatter/x86_64-pc-windows-msvc/chatter.exe）；留空使用随附程序。
+Absolute path to the chatter binary; leave empty to use the bundled bin/chatter/x86_64-pc-windows-msvc/chatter.exe	chatter 可执行文件的绝对路径；留空使用随附程序。
+Resolved binary	实际使用的程序
+Currently in use	当前使用
+LLM Models	大语言模型
+Model Configurations	模型配置
+Add multiple LLM providers and switch between them in the Schwa panel	添加多个模型服务商，并在 Schwa 面板中切换
+Test	测试
+Inline Completions	行内补全
+Show ghost text suggestions as you type	输入时显示补全文本建议
+Enable inline completions	启用行内补全
+Debounce Delay	请求等待时间
+Milliseconds to wait after typing before requesting completion	停止输入后等待多少毫秒再请求补全
+Maximum tokens for inline completion responses	行内补全回复的最大词元数
+Script Generation	脚本生成
+Schwa Panel	Schwa 面板
+Show Schwa assistant panel in script editors	在脚本编辑器中显示 Schwa 助手面板
+Enable Schwa panel	启用 Schwa 面板
+Maximum tokens for script generation responses	脚本生成回复的最大词元数
+Higher values produce more creative output (0.0 - 2.0)	数值越高，输出的变化越多（0.0–2.0）
+MCP Server	MCP 服务器
+Automatic Start	自动启动
+Expose Schwa's AI tools to external MCP clients (Claude Code, Claude Desktop, Cursor, and others). The server listens on 127.0.0.1 only.	向外部 MCP 客户端（Claude Code、Claude Desktop、Cursor 等）提供 Schwa 工具；服务器仅监听 127.0.0.1。
+Start MCP server with Phon	随 Phon 启动 MCP 服务器
+Port	端口
+Loopback TCP port. Takes effect the next time the server starts.	本机回环 TCP 端口；下次启动服务器时生效。
+Server Control	服务器控制
+Start or stop the embedded MCP server	启动或停止内置 MCP 服务器
+Stopped	已停止
+Running	运行中
+Access Token	访问令牌
+Bearer token MCP clients must send. Regenerating invalidates connected clients.	MCP 客户端需发送此 Bearer 令牌；重新生成会使已连接客户端的令牌失效。
+Regenerate	重新生成
+Client Setup	客户端设置
+Setup instructions and configuration snippets for external MCP clients	外部 MCP 客户端的配置说明和示例
+Connection instructions	连接说明
+Please re-open Phon	请重新打开 Phon
+It is recommended to restart Phon after making changes to font settings.	更改字体设置后，请重启 Phon。
+Tier font	层字体
+Default font used for IPA and orthographic tiers	音标层与正字法层的默认字体
+Monospace font	等宽字体
+Font used in script consoles and code editors	脚本控制台与代码编辑器使用的字体
+Category	类别
+Reset to Default	恢复默认值
+Reset All	全部重置
+Reset the selected shortcut to its default value	将选中的快捷键恢复为默认值
+Reset all shortcuts to their default values	将所有快捷键恢复为默认值
+Import shortcuts from a file	从文件导入快捷键
+Export customized shortcuts to a file	将自定义快捷键导出到文件
+Double-click a shortcut to edit. Press Escape to cancel.	双击快捷键进行编辑，按 Esc 取消。
+Usage Analytics	使用情况统计
+Send anonymous data to help improve Phon	发送匿名数据以帮助改进 Phon
+Enable anonymous usage analytics	启用匿名使用情况统计
+What We Collect	收集内容
+Collected Data	收集的数据
+Details of what is sent	发送内容的详细说明
+Application version, OS, Java version, locale	程序版本、操作系统、Java 版本和区域设置
+Never collected:	不会收集：
+file paths, project names, session content, participant data, personal information, or IP addresses.	文件路径、项目名称、会话内容、参与者数据、个人信息或 IP 地址。
+Accept record split	接受记录拆分
+Add accuracy columns to input table	向输入表添加正确率列
+Add button to list of favorites	将按钮添加到收藏列表
+Add column to sort	添加排序列
+Add documents	添加文档
+Add section	添加章节
+Adjacency sequence	邻接序列
+All data to new record	将所有数据移至新记录
+Anonymize participant information for project	将项目中的参与者信息匿名化
+Assign segment to record	将片段分配给记录
+Assign selected segment to current record	将选中的片段分配给当前记录
+Assign selection to current record	将选区分配给当前记录
+Browse for analysis document.	选择分析文档。
+Browse for query report document.	选择查询报告文档。
+Browse for query	查找查询
+Buffer	缓冲区
+Cancel auto-validation and close dialog	取消自动校验并关闭对话框
+Cancel move segments	取消移动片段
+Check IPA Transcriptions for project	检查项目中的音标转写
+Clean history when closing window	关闭窗口时清空历史
+Clear corpus media folder selection (use project media folder)	清除语料库媒体文件夹，改用项目媒体文件夹
+Clear media folder selection	清除媒体文件夹选择
+Clear open file history	清空已打开文件历史
+Clear recent documents	清空最近文档
+Clear results and run report again	清空结果并重新生成报告
+Clear text	清空文本
+Clear workspace folder history	清空工作区文件夹历史
+Click to change project media folder	点击更改项目媒体文件夹
+Click to edit record position (i.e., move record)	点击更改记录位置
+Click to lock start time to current time	点击将起始时间锁定在当前时间
+Click to unlock start time	点击解锁起始时间
+Color in alignment	对齐着色
+Column interleaving	列交错排列
+Column Naming	列命名
+Column options	列选项
+Comment	注释
+Comments	注释
+Notes	备注
+Note	备注
+Commit	提交
+Commit changes	提交更改
+Commit Message	提交说明
+Console	控制台
+Copy selected records	复制选中的记录
+Copy tier contents to clipboard	将层内容复制到剪贴板
+Corpus folder	语料库文件夹
+Corpus media folder is same as project media folder, click to change	与项目媒体文件夹相同，点击更改
+Create .zip archive of phon project	将 Phon 项目归档为 ZIP
+Create a custom field	创建自定义字段
+Create a new corpus	创建新语料库
+Create a new macro using Composer	使用流程编辑器创建新宏
+Create a new session from existing data	根据已有数据创建新会话
+Create default media folder	创建默认媒体文件夹
+Create media folder	创建媒体文件夹
+Create new corpus folder	创建新语料库文件夹
+Create new session in selected corpus	在选中的语料库中创建新会话
+Create subfolders as shown	按所示结构创建子文件夹
+Create workspace folder	创建工作区文件夹
+Create workspace folder on disk	在磁盘上创建工作区文件夹
+Current log	当前日志
+Current segment	当前片段
+Custom	自定义
+Cut selected records	剪切选中的记录
+Data Format	数据格式
+Debug	调试
+Debug Settings	调试设置
+Debug step	调试步骤
+Decrease point size by 2	字号减小 2 磅
+Decrease size	缩小字号
+Decrease zoom level	缩小
+Delete all entries in query history	删除全部查询历史
+Delete all entries in query history (action cannot be undone)	删除全部查询历史（无法撤销）
+Delete all unnamed entries in query history (action cannot be undone)	删除全部未命名查询历史（无法撤销）
+Delete current entry in query history	删除当前查询历史
+Delete current entry in query history (action cannot be undone)	删除当前查询历史（无法撤销）
+Delete Entry in Query History	删除查询历史记录
+Delete selected corpora	删除选中的语料库
+Delete selected participant	删除选中的参与者
+Delete selected session	删除选中的会话
+Delete the currently selected tier.	删除当前选中的层。
+Derive session	派生会话
+Diacritic selection mode	附加符号选择模式
+Discard all	全部放弃
+Discard all query results	放弃全部查询结果
+Discard all results	放弃全部结果
+Discard current result set	放弃当前结果集
+Discard results	放弃结果
+Display data as	数据显示方式
+Divisor Column	除数列
+Don't override	不覆盖
+Don't override case sensitive options for report	不覆盖报告中的大小写设置
+Don't override ignore diacritics options for report	不覆盖报告中的附加符号忽略设置
+Don't override inventory grouping options for report	不覆盖报告中的清单分组设置
+Drop IPA Database	删除音标数据库
+Duplicate selected corpus/corpora	复制选中的语料库
+Duplicate selected session(s)	复制选中的会话
+Edit media folders	编辑媒体文件夹
+Edit selected participant	编辑选中的参与者
+Edit table columns	编辑表格列
+Edit to set this record's position in session	编辑此记录在会话中的位置
+Enter a description for the new corpus:	输入新语料库的说明：
+Enter a name for the new corpus:	输入新语料库的名称：
+Enter a name for the new session:	输入新会话的名称：
+Enter age in format YY;MM.YY	按 YY;MM.YY 格式输入年龄
+Enter date in format YYYY-MM-DD	按 YYYY-MM-DD 格式输入日期
+Enter IPA:	输入国际音标：
+Enter number, may use ###:##.### format. Negative values allowed.	输入数值，可使用 ###:##.### 格式，允许负值。
+Enter phonex:	输入 Phonex 表达式：
+Enter sonority scale:	输入响度等级：
+Enter split record mode for current record	进入当前记录的拆分模式
+Enter the new name for the corpus:	输入语料库的新名称：
+Enter the new name for the session:	输入会话的新名称：
+Exclude columns	排除列
+Exclude record from queries	查询时排除此记录
+Exclude result values	排除结果值
+Exclude tiers	排除层
+Excludes	排除项
+Existing Transcriber	已有转写者
+Exit split record	退出记录拆分
+Exit split record mode without accepting split	退出记录拆分且不接受结果
+Export audio segment	导出音频片段
+Export record segment (audio only)	导出记录片段（仅音频）
+Export record segment	导出记录片段
+Export report tables in CSV format to selected folder - one file per table.	将报告表格以 CSV 格式导出到所选文件夹，每张表保存为一个文件。
+Export report tables in Excel format to selected folder - one file per table.	将报告表格以 Excel 格式导出到所选文件夹，每张表保存为一个文件。
+Export report tables to a single Excel workbook	将报告表格导出到同一个 Excel 工作簿
+Export segment for current record	导出当前记录的片段
+Export selected tables	导出选中的表格
+Export selection (audio only)	导出选区（仅音频）
+Export selection/segment (audio only)	导出选区或片段（仅音频）
+Export session (HTML and spreadsheet)	导出会话（HTML 和电子表格）
+Export session as HTML or in a spreadsheet	将会话导出为 HTML 或电子表格
+Export tables as excel or CSV	将表格导出为 Excel 或 CSV
+Export tables as Excel workbook	将表格导出为 Excel 工作簿
+Export tables to folder (CSV)	将表格导出到文件夹（CSV）
+Export tables to folder (XLS)	将表格导出到文件夹（XLS）
+Field name	字段名称
+Field Outline	字段大纲
+File Selection	文件选择
+Filter records using query results	根据查询结果筛选记录
+Find & Replace	查找与替换
+Find instances of expression within given input	在指定输入中查找表达式的匹配项
+Full Name	全名
+Generate HTML	生成 HTML
+Generate HTML Report	生成 HTML 报告
+Generate HTML report when finished compiling tables	表格整理完成后生成 HTML 报告
+Generate inventory	生成清单
+Generate Wav	生成 WAV
+Generating HTML report...	正在生成 HTML 报告…
+Global	全局
+Group by	分组依据
+Group Data	组数据
+Group results by format (e.g., for 'Data Tiers' queries this will group results by tier)	按格式对结果分组（如数据层查询按层分组）
+Grouped (word-aligned)	分组（按词对齐）
+Grow record	延长记录
+Grow selected records	延长选中的记录
+Hide and don't show again	隐藏且不再显示
+Hide empty result sets	隐藏空结果集
+Hide empty results	隐藏空结果
+Hide message	隐藏消息
+Hide participant	隐藏参与者
+Highlight recently used	突出显示最近使用项
+If more than one IPA transcript exists, choose IPA for transcriber:	存在多份音标转写时，选择以下转写者的版本：
+If only one IPA transcript exists it is selected.	只有一份音标转写时自动选择。
+Ignore diacritics	忽略附加符号
+Ignore diacritics (i.e., diacritics are removed from result values)	忽略附加符号（从结果值中移除附加符号）
+Include additional group data	包含额外的组数据
+Include additional word data	包含额外的词数据
+Include alignment	包含对齐
+Include columns	包含列
+Include consonant agreement	包含辅音一致性
+Include diacritic agreement	包含附加符号一致性
+Include epenthesis	包含增音
+Include excluded records	包含已排除的记录
+Include excluded records in search.	在搜索中包含已排除的记录。
+Include excluded results	包含已排除的结果
+Include metadata	包含元数据
+Include metadata in result value when counting	计数时在结果值中包含元数据
+Include participant information	包含参与者信息
+Include query results	包含查询结果
+Include record number, tier, group and text range	包含记录编号、层、组及文本范围
+Include result metadata columns	包含结果元数据列
+Include result value (i.e., data matched in the result set)	包含结果值（结果集中匹配到的数据）
+Include result values	包含结果值
+Include session information	包含会话信息
+Include session name and date	包含会话名称及日期
+Include speaker name and age	包含说话者姓名及年龄
+Include syllabification	包含音节划分
+Include tier data	包含层数据
+Include tiers	包含层
+Include tone number agreement	包含数字声调一致性
+Include vowel agreement	包含元音一致性
+Includes	包含项
+Incomplete comment - insert ')'	注释未闭合，请插入“)”
+Incomplete event - insert '*'	事件未闭合，请插入“*”
+Incorrect password	密码错误
+Increase point size by 2	字号增大 2 磅
+Increase size	增大字号
+Increase zoom level	放大
+Information Messages	信息提示
+Initialize a new git repository for the project	为项目初始化 Git 仓库
+Initialize Git Repository	初始化 Git 仓库
+Interleave columns	交错排列列
+IPA Actual Syllabifier	实际音标的音节划分器
+IPA Target Syllabifier	目标音标的音节划分器
+IPA Selection	音标选择
+Keep like on top	将同类项置顶
+Keep original media encoding	保留媒体原始编码
+Key column name	键列名称
+List	列表
+Load default report when opening a new wizard	打开新向导时载入默认报告
+Load most recent entry in query history when opening a new wizard	打开新向导时载入最近的查询历史
+Load previous report when opening a new wizard	打开新向导时载入上次的报告
+Make corpus media folder an absolute filename	将语料库媒体文件夹改为绝对路径
+Make corpus media folder path relative to project folder	将语料库媒体路径改为相对项目路径
+Make media folder path absolute	将媒体文件夹改为绝对路径
+Make media folder path relative to project	将媒体文件夹改为相对项目路径
+Make media folder path relative to project folder	将媒体文件夹改为相对项目路径
+Make project media folder an absolute filename	将项目媒体文件夹改为绝对路径
+Manual Configuration	手动配置
+Media export	媒体导出
+Media folder not found, click to create or select new project media folder	未找到媒体文件夹，点击创建或选择新的项目媒体文件夹
+Media Playback	媒体播放
+Merge all groups	合并所有组
+Merge group with next	与下一组合并
+Metrics	测量指标
+Modify global media folders	修改全局媒体文件夹
+Move	移动
+Move record	移动记录
+Move records	移动记录
+Move section down	章节下移
+Move section up	章节上移
+Move segments given amount of time	按指定时长移动片段
+Move selected field down	将选中的字段下移
+Move selected field up	将选中的字段上移
+Move selected records a specified amount of time	按指定时长移动选中的记录
+Move selected records left on the timeline	将选中的记录沿时间轴左移
+Move selected records right on the timeline	将选中的记录沿时间轴右移
+Move tier down	层下移
+Move tier up	层上移
+Name entry in query history	命名查询历史记录
+Name query	命名查询
+New empty report design	新建空白报告设计
+New window	新建窗口
+Next: Report	下一步：报告
+Next: Report Composer	下一步：报告编辑器
+No buffer selected	未选择缓冲区
+No media	没有媒体
+No script node open	未打开脚本节点
+Number of tables	表格数量
+Open a new query wizard	打开新查询向导
+Open after export	导出后打开
+Open after saving	保存后打开
+Open file system browser with project media folder selected	在文件管理器中显示项目媒体文件夹
+Graph	流程图
+Open in Composer (advanced)	在高级流程编辑器中打开
+Open query preferences	打开查询偏好设置
+Open record list with current filter.	按当前筛选条件打开记录列表。
+Open report in browser	在浏览器中打开报告
+Open report in default browser	在默认浏览器中打开报告
+Open session as a blind transcriber	以盲法转写者身份打开会话
+Open session as transcriber... (blind mode)	以转写者身份打开会话…（盲法模式）
+Open session in a new editor window	在新的编辑器窗口中打开会话
+Open session template	打开会话模板
+Open template for sesssion in the selected corpus	打开选中语料库的会话模板
+Open the workspace dialog.	打开工作区对话框。
+Open view in new window	在新窗口中打开视图
+Optional Information	可选信息
+Optional node	可选节点
+Other (type below)	其他（在下方输入）
+Override case sensitive options for report	覆盖报告中的大小写设置
+Override case sensitive setting where applicable	在适用处覆盖大小写设置
+Override ignore diacritics options for report	覆盖报告中的附加符号忽略设置
+Override inventory grouping column options fro report	覆盖报告中的清单分组列设置
+Overrides	覆盖设置
+Overwrite existing data	覆盖已有数据
+Parameter List	参数列表
+Participant Options	参与者选项
+Password	密码
+Perform auto-validation and close dialog	执行自动校验并关闭对话框
+Phon : Auto-validate Session	Phon：自动校验会话
+Phon : Quit	Phon：退出
+Phonex Debugger	Phonex 调试器
+Phonex search	Phonex 搜索
+Plain text	纯文本
+Plain text search	纯文本搜索
+Play current record segment	播放当前记录片段
+Play current selection	播放当前选区
+Play record segment	播放记录片段
+Play segment for current record	播放当前记录片段
+Play selection/segment	播放选区或片段
+Plugins	插件
+Press Tab for focus	按 Tab 聚焦
+Print HTML	打印 HTML
+Print HTML Report	打印 HTML 报告
+Print only changed values	仅打印已修改的值
+Print report	打印报告
+Program Updates	程序更新
+Project folder (click select a project folder)	项目文件夹（点击选择）
+Project Participants	项目参与者
+Pull changes from remote	从远端拉取更改
+Pull	拉取
+Push changes to remote	将更改推送到远端
+Push	推送
+Query Details	查询详情
+Reassign records to	将记录重新分配给
+Record Filter	记录筛选
+Record Lookup	记录查找
+Record range	记录范围
+Record Selection	记录选择
+Records for participant(s)	参与者的记录
+Records from query results	来自查询结果的记录
+Records Modified	已修改的记录
+Refresh project	刷新项目
+Refresh session check	刷新会话检查
+Regex	正则表达式
+Regex search	正则表达式搜索
+Remember outline	记住大纲
+Remove all changes from index	从暂存区移除所有更改
+Remove all optional information	移除所有可选信息
+Remove button from list of favorites	从收藏列表移除按钮
+Remove section	移除章节
+Remove selected changes from index	从暂存区移除选中的更改
+Remove selected field	移除选中的字段
+Remove sort column	移除排序列
+Rename selected corpus	重命名选中的语料库
+Rename selected session	重命名选中的会话
+Report Composer	报告编辑器
+Report Format	报告格式
+Report Outline	报告大纲
+Report Section	报告章节
+Required Information	必填信息
+Reset alignment for all records in selected sessions.	重置所选会话中所有记录的对齐。
+Reset alignments	重置对齐
+Reset editor contents with node script	使用节点脚本重置编辑器内容
+Reset font size	重置字号
+Reset phone alignment	重置音素对齐
+Reset syllabification for all IPA tiers in selected sessions.	重置所选会话中所有音标层的音节划分。
+Reset zoom	重置缩放
+Reset zoom level	重置缩放比例
+Reset zoom level to default	将缩放比例恢复为默认值
+Result Data	结果数据
+Result Excluded	结果已排除
+Result Format	结果格式
+Result List	结果列表
+Result Metadata	结果元数据
+Result Sets	结果集
+Result set	结果集
+Result values	结果值
+Run again	再次运行
+Run phonex expression with given input	对指定输入运行 Phonex 表达式
+Save analysis to file	将分析保存到文件
+Save as CSV	另存为 CSV
+Save current layout as a preset.	将当前布局保存为预设。
+Save current layout	保存当前布局
+Save current query parameters	保存当前查询参数
+Save failed	保存失败
+Save graph	保存流程图
+Save HTML Report	保存 HTML 报告
+Save in another location	保存到其他位置
+Save in project library	保存到项目库
+Save in project resources	保存到项目资源
+Save in user library	保存到用户库
+Save IPA dictionary	保存音标词典
+Save query and close	保存查询并关闭
+Save report to file	将报告保存到文件
+Save result table as CSV.	将结果表另存为 CSV。
+Save selected	保存选中项
+Save table as CSV	将表格另存为 CSV
+Save table as XLS	将表格另存为 XLS
+Save tables to workbook	将表格保存到工作簿
+Scroll to	滚动至
+Search Backwards	向后搜索
+Search backwards in session	在会话中向后搜索
+Search Forwards	向前搜索
+Search forwards in session	在会话中向前搜索
+Segmentation Mode	切分模式
+Select a corpus to use for this session:	选择此会话所属的语料库：
+Select all records in list	选择列表中的所有记录
+Select all visible records	选择所有可见记录
+Select Buffers to Folder	将选中的缓冲区保存到文件夹
+Select CSV file with IPA entries	选择包含音标词条的 CSV 文件
+Select diacritics	选择附加符号
+Select file/folder	选择文件或文件夹
+Select font	选择字体
+Select font using font selection dialog	打开字体对话框选择字体
+Select information to strip	选择要移除的信息
+Select media folders	选择媒体文件夹
+Select media for session	选择会话媒体
+Select query by name	按名称选择查询
+Select save folder	选择保存文件夹
+Select segment for current record	选择当前记录的片段
+Select session checks	选择会话检查项
+Select syllabifier settings for session	选择会话的音节划分器设置
+Select the corpus containing the session you wish to rename:	选择待重命名会话所在的语料库：
+Select the corpus you wish to rename:	选择要重命名的语料库：
+Select the session you would like to rename:	选择要重命名的会话：
+Select to ignore diacritics	选中以忽略附加符号
+Select Transcribers	选择转写者
+Select workspace	选择工作区
+Select workspace folder	选择工作区文件夹
+Send query and report to analysis composer	将查询与报告发送到分析编辑器
+Send to Analysis Composer	发送到分析编辑器
+Send to New Analysis Composer	发送到新的分析编辑器
+Session Check	会话检查
+Session list	会话列表
+Session Media	会话媒体
+Sessions & Participants	会话与参与者
+Set	设置
+Set group IPA	设置组音标
+Set segment	设置片段
+Set transcription for selected tiers	设置选中层的转写
+Set up result table columns.	设置结果表的列。
+Set value of IPA Actual using current candidate transcription	使用当前候选转写设置实际音标
+Set value of IPA Target using current candidate transcription	使用当前候选转写设置目标音标
+Show as step	显示为步骤
+Show calendar	显示日历
+Show data as HTML	以 HTML 显示数据
+Show data as plain text	以纯文本显示数据
+Show data as table (CSV)	以表格（CSV）显示数据
+Show debugger when executing this node	执行此节点时显示调试器
+Show diacritics	显示附加符号
+Show excluded results	显示已排除的结果
+Show font scale menu	显示字体缩放菜单
+Show font size menu	显示字号菜单
+Show graph script editor tree	显示流程图脚本编辑树
+Show html debug frame	显示 HTML 调试窗口
+Show in advanced settings	在高级设置中显示
+Show log folder	显示日志文件夹
+Show media folder	显示媒体文件夹
+Show node settings as a wizard step (and in advanced settings)	将节点设置显示为向导步骤，并列入高级设置
+Show node settings in advanced settings	在高级设置中显示节点设置
+Show overrides menu	显示覆盖设置菜单
+Show participant visibility menu	显示参与者可见性菜单
+Show project window	显示项目窗口
+Show query history	显示查询历史
+Show script editor	显示脚本编辑器
+Show status of git repository	显示 Git 仓库状态
+Show tier visibility menu	显示层可见性菜单
+Show view layout menu	显示视图布局菜单
+Show warnings	显示警告
+Show workspace	显示工作区
+Show workspace folder	显示工作区文件夹
+Show Workspace window	显示工作区窗口
+Shrink record	缩短记录
+Shrink selected records	缩短选中的记录
+Shutdown Group	结束组
+Shutdown task	结束任务
+Sort order	排序顺序
+Sort Records	记录排序
+Sort records and close	排序记录并关闭
+Sort type	排序类型
+Speaker	说话者
+Speaker Age	说话者年龄
+Speaker Gender	说话者性别
+Speaker turn	说话者轮次
+Split group	拆分组
+Staged Changes	已暂存的更改
+Stages	阶段
+Start Group	开始组
+Start Segmentation	开始切分
+Start time is after end time	起始时间晚于结束时间
+Step	步骤
+Stock queries	内置查询
+Stop debugger	停止调试器
+Stop playback	停止播放
+Stop segment playback	停止片段播放
+Stop Segmentation	停止切分
+Stop task	停止任务
+Strip Participant Information	移除参与者信息
+Sum Columns	列求和
+Sum columns before calculation	计算前对列求和
+Sum the values of the columns specified below for each row key	对每个行键，求下列各列数值之和
+Summary of Result Sets	结果集摘要
+Syllabifier language	音节划分器语言
+Syllabifier name	音节划分器名称
+Syllabifier settings	音节划分器设置
+Syllabifier Test	音节划分器测试
+Test Syllabifier	测试音节划分器
+Table 1 column prefix	表 1 列前缀
+Table 1 column ratio	表 1 列比率
+Table 1 column suffix	表 1 列后缀
+Table 1 Key Column	表 1 键列
+Table 2 column prefix	表 2 列前缀
+Table 2 column ratio	表 2 列比率
+Table 2 column suffix	表 2 列后缀
+Table 2 Key Column	表 2 键列
+Take snapshot	截取画面
+Take snapshot of video	截取视频画面
+Tenseness	紧张度
+Text	文本
+Tier Data Options	层数据选项
+Tier Options	层选项
+Time range	时间范围
+Title	标题
+Toggle actual syllables	切换实际音标的音节显示
+Toggle alignment	切换对齐显示
+Toggle bold modifier	切换粗体
+Toggle color in alignment	切换对齐着色
+Toggle current result exclusion	切换当前结果的排除状态
+Toggle display of diacritics	切换附加符号显示
+Toggle Find & Replace panel	切换查找与替换面板
+Toggle Find & Replace UI	切换查找与替换界面
+Toggle italic modifier	切换斜体
+Toggle result excluded	切换结果排除状态
+Toggle Snapshot Mode	切换截图模式
+Toggle target syllables	切换目标音标的音节显示
+Toggle waveform visibility	切换波形显示
+Transcode media	媒体转码
+Transcribe	转写
+UI Fonts	界面字体
+Unable to add analysis	无法添加分析
+Unable to load media	无法加载媒体
+Unable to open file	无法打开文件
+Unable to open session	无法打开会话
+Unable to save analysis	无法保存分析
+Unable to save layout	无法保存布局
+Unspecified	未指定
+Unstaged Changes	未暂存的更改
+Untitled	未命名
+Use default font size	使用默认字号
+Use default tier font set in Preferences	使用偏好设置中的默认层字体
+Use integers (1/0) for boolean values	使用整数 1/0 表示布尔值
+Use last row for calculation	使用最后一行计算
+Use password	使用密码
+Use segmentation window	使用切分窗口
+User Defined Tier	用户自定义层
+User queries	用户查询
+User-hidden Messages	用户隐藏的消息
+Username	用户名
+View as HTML	以 HTML 查看
+View as table	以表格查看
+View as text	以文本查看
+View current buffer data as HTML	以 HTML 查看当前缓冲区数据
+View current buffer data as table	以表格查看当前缓冲区数据
+View current buffer data as text	以文本查看当前缓冲区数据
+VLC Not Found	未找到 VLC
+When identifiying a new segment:	识别新片段时：
+When selected default action will be to open session as transcriber (blind mode)	选中后，默认以转写者身份打开会话（盲法模式）
+Wrap	自动换行
+Wrap search when beginning/end of session is reached	到达会话开头或结尾时循环查找
+Supported files	支持的文件
+All files	所有文件
+Text files	文本文件
+XML files	XML 文件
+CSV files	CSV 文件
+Audio files	音频文件
+Video files	视频文件
+Project files	项目文件
+Phon projects	Phon 项目
+Phon sessions	Phon 会话
+Save as Phon 4.0+ (.xml)	另存为 Phon 4.0+（.xml）
+Save session as Phon 4.0+ (.xml)	将会话保存为 Phon 4.0+（.xml）
+Save as CHAT (.cha)	另存为 CHAT（.cha）
+Save session as CHAT (.cha)	将会话保存为 CHAT（.cha）
+Show Record Data view with Find UI visible	打开记录数据视图并显示查找栏
+Show Record Data view with Find & Replace UI visible	打开记录数据视图并显示查找与替换栏
+New record after current (Ctrl+N)	在当前记录后新建记录（Ctrl+N）
+Duplicate record after current (Ctrl+D)	复制当前记录并插入其后（Ctrl+D）
+Delete current record (Ctrl+Delete)	删除当前记录（Ctrl+Delete）
+Move record to beginning	将记录移至开头
+Move current record to beginning of session	将当前记录移至会话开头
+Move record backward	将记录向前移
+Move record backward in session	将记录在会话中向前移
+Move record forward	将记录向后移
+Move record foward in session	将记录在会话中向后移
+Move record to end	将记录移至末尾
+Move current record to end of session	将当前记录移至会话末尾
+Cut record	剪切记录
+Copy record to clipboard and remove record	将记录剪切到剪贴板
+Copy record to clipboard	将记录复制到剪贴板
+Paste record from clipboard after current record	将剪贴板中的记录粘贴到当前记录后
+Go to first record (Alt+Shift+P)	跳转到第一条记录（Alt+Shift+P）
+Go to previous record (Ctrl+[)	跳转到上一条记录（Ctrl+[）
+Go to next record (Ctrl+])	跳转到下一条记录（Ctrl+]）
+Go to last record (Alt+Shift+N)	跳转到最后一条记录（Alt+Shift+N）
+Inter-transcriber Reliability	转写者间信度
+Show Inter-transcriber Reliability wizard	打开转写者间信度向导
+Reset layout to default.	将布局恢复为默认值。
+-- Session --	-- 会话 --
+-- Record --	-- 记录 --
+-- Media --	-- 媒体 --
+-- Utilities --	-- 实用工具 --
+-- Plugins --	-- 插件 --
+Assign media to session	为会话指定媒体
+Select media file for session using filesystem browser	从磁盘选择会话媒体文件
+Unassign session media	取消会话媒体关联
+Clear media selection for this session	清除此会话的媒体选择
+Generate/re-encode session audio	生成或重新编码会话音频
+Generate or re-encode session audio file	生成或重新编码会话音频文件
+Show media information	显示媒体信息
+Show media information in new buffer window	在新的缓冲区窗口中显示媒体信息
+Toggle mute	切换静音
+Play custom segment	播放自定义片段
+Play custom time segment	播放自定义时间片段
+Play current speaker turn	播放当前说话者轮次
+Play speaker turn segment	播放说话者轮次片段
+Play adjacency sequence	播放邻接序列
+Play conversation period segment	播放对话时段片段
+Export current record segment	导出当前记录片段
+Export custom segment	导出自定义片段
+Export current speaker turn	导出当前说话者轮次
+Export adjacency sequence	导出邻接序列
+Export to CSV	导出为 CSV
+Export Sessions from the current project as CSV files.	将当前项目的会话导出为 CSV 文件。
+Import from CSV	从 CSV 导入
+Import CSV files as new Sessions in the current project.	将 CSV 文件作为新会话导入当前项目。
+Transcript menu	转写文本菜单
+Validation mode	校验模式
+Showing single record - click to show all records	当前显示单条记录，点击显示全部记录
+Show/hide header tiers	显示或隐藏头部信息层
+Document position	文档位置
+Transcript element index	转写元素索引
+Record index	记录索引
+Makes this panel as big as possible (Ctrl+Shift+M)	最大化此面板（Ctrl+Shift+M）
+View menu	视图菜单
+Add participant to session.	向会话添加参与者。
+Addressee (%add)	受话人（%add）
+Alternative (%alt)	替代转写（%alt）
+Coding (%cod)	编码（%cod）
+Cohesion (%coh)	衔接（%coh）
+Eng translation (%eng)	英语翻译（%eng）
+Errcoding (%err)	错误编码（%err）
+Explanation (%exp)	解释（%exp）
+Facial (%fac)	面部表情（%fac）
+Flow (%flo)	语流（%flo）
+Target gloss (%gls)	目标释义（%gls）
+Gesture (%gpx)	手势（%gpx）
+Ort (%ort)	正字法转写（%ort）
+Paralinguistics (%par)	副语言信息（%par）
+Situation (%sit)	情境（%sit）
+Speech act (%spa)	言语行为（%spa）
+Time stamp (%tim)	时间戳（%tim）
+Word intervals (%wor)	词区间（%wor）
+Phone intervals (%phoint)	音素区间（%phoint）
+New custom tier	新建自定义层
+Add new tier to session.	向会话添加新层。
+Lock tier	锁定层
+Include tier in blind transcription	将层纳入盲法转写
+Toggle tier as a blind tier	切换层的盲法转写属性
+Copy values to blind transcription	将值复制到盲法转写
+Copy current tier values into blind transcriptions for a transcriber	将当前层的值复制到指定转写者的盲法转写
+Duplicate tier.	复制层。
+Edit tier Orthography	编辑正字法层
+Remove tier Orthography	移除正字法层
+Edit tier IPA Target	编辑目标音标层
+Remove tier IPA Target	移除目标音标层
+Edit tier IPA Actual	编辑实际音标层
+Remove tier IPA Actual	移除实际音标层
+Edit tier Comments	编辑注释层
+Remove tier Comments	移除注释层
+Edit tier Segment	编辑片段层
+Remove tier Segment	移除片段层
+Remove tier from blind transcription	将层移出盲法转写
+Enable validation mode	启用校验模式
+Auto-validate blind transcriptions	自动校验盲法转写
+Bulk-validate blind transcriptions across selected tiers	批量校验选中层中的盲法转写
+Hide header tiers	隐藏头部信息层
+Toggle chat tier names	切换 CHAT 层名称显示
+Insert record	插入记录
+Insert record above	在上方插入记录
+Show full transcript	显示完整转写文本
+Toggle single record view	切换单条记录视图
+Insert comment	插入注释
+Insert comment above	在上方插入注释
+Gems	主题片段
+Insert gem	插入主题片段标记
+Insert gem above	在上方插入主题片段标记
+View metadata	查看元数据
+Cross-tier alignment	跨层对齐
+Close view 'Transcript'	关闭转写文本视图
+SALT (%def)	SALT（%def）
+Search Results	搜索结果
+Clicks and Implosives	吸气音与内爆音
+Contours	轮廓符号
+Search by name	按名称搜索
+Tone Number	声调数字
+ExtIPA	扩展国际音标
+Other Consonants	其他辅音
+Other Vowels	其他元音
+Other Suffix Diacritics	其他后置附加符号
+Other Combining Diacritics	其他组合附加符号
+Epenthesis	增音
+Segmental Relations	音段关系
